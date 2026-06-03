@@ -1,0 +1,13 @@
+numpy
+librosa
+scikit-learn
+matplotlib
+tqdm
+streamlit
+soundfile
+gTTS
+openai-whisper
+torch
+transformers
+spacy
+ffmpeg-python
